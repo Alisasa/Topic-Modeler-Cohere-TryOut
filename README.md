@@ -18,7 +18,8 @@ Step 3: Get cluster keywords
 Step 4: Visualize clusters on a plot
 
 ## output
-[View Chart](https://github.com/Alisasa/Topic-Modeler-Cohere-Tryout/chart.html)
+![Sample Image](https://github.com/Alisasa/Topic-Modeler-Cohere-TryOut/blob/master/images/topic-modeler-output.png)
+
 
 
 
