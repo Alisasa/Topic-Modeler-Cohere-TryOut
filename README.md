@@ -8,16 +8,18 @@ Topic modeling is a technique used to identify and extract the underlying topics
 
 ## Reference
 
-For more information about Cohere and the context of this project, please visit [CompanyCohere's website](https://www.Cohere.com) and [Instruction Document website](https://docs.cohere.com/page/topic-modeling).
+For more information about Cohere and the context of this project, please visit:<br>
+[Cohere's Company official website](https://www.Cohere.com) <br>
+[Instruction Document website](https://docs.cohere.com/page/topic-modeling).
 
 ## Steps
 
-Step 1: Load the text dataset
-Step 2: Create clusters
-Step 3: Get cluster keywords
+Step 1: Load the text dataset<br>
+Step 2: Create clusters<br>
+Step 3: Get cluster keywords<br>
 Step 4: Visualize clusters on a plot
 
-## output
+## Sample output
 ![Sample Image](https://github.com/Alisasa/Topic-Modeler-Cohere-TryOut/blob/master/topic-modeler-output.png)
 
 
