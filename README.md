@@ -8,7 +8,7 @@ Topic modeling is a technique used to identify and extract the underlying topics
 
 ## Reference
 
-For more information about Cohere and the context of this project, please visit [CompanyCohere's website](https://www.Cohere.com and [Instruction Document website](https://docs.cohere.com/page/topic-modeling).
+For more information about Cohere and the context of this project, please visit [CompanyCohere's website](https://www.Cohere.com) and [Instruction Document website](https://docs.cohere.com/page/topic-modeling).
 
 ## Steps
 
